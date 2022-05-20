@@ -57,6 +57,7 @@ Amane Yamamoto
 Takumi Shiroi
 Koki Kitamori
 Hiroto Tanaka
+Naoya Fujimoto
 Keigo Kobata
 Hiroto Tanaka
 Jyoji Mori
@@ -64,3 +65,4 @@ Kakeru Yoshida
 Kusumoto　Yuuki
 Hisanori Fujii
 Maho Ono
+
