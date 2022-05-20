@@ -40,6 +40,7 @@ Kanta Ichise
 Takumi Ozeki
 Yuya Kanbetsunawa
 Hisanori Fujii
+Akihiro Waza
 Yuto Kawanaka
 Gaito Fujita
 Shu Nakajima
@@ -54,6 +55,7 @@ Naoto Tanabe
 Amane Yamamoto
 Takumi Shiroi
 Koki Kitamori
+Hiroto Tanaka
 Keigo Kobata
 Hiroto Tanaka
 Jyoji Mori
@@ -61,4 +63,3 @@ Kakeru Yoshida
 Kusumoto　Yuuki
 Hisanori Fujii
 Maho Ono
-
